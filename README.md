@@ -12,7 +12,7 @@ of pre-trained PyTorch models. The extracted features can be used as a loss func
 ## Installation
 Copy the file **felix.py** to your project root folder.
 
-##Usage
+## Usage
 Felix code will hook all the layers of a selected instance of a model and apply a weight for it.
 To undestand the weights, look the file *example_weight_curve_visualization.py* and the images on the *img* folder.
 
